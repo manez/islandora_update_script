@@ -30,8 +30,6 @@ modules=(
     'islandora_xml_forms'
     'php_lib'
     'objective_forms'
-    'islandora_content_model_forms'
-    'islandora_collection_manager'
     'islandora_solr_search'
 #these modules are optional
     'islandora_solution_pack_large_image'
