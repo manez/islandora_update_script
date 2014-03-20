@@ -35,6 +35,7 @@ modules=(
     'islandora_solr_search'
 #these modules are optional
     'islandora_solution_pack_large_image'
+    'islandora_solution_pack_collection'
     'islandora_solution_pack_image'
     'islandora_solution_pack_pdf'
     'islandora_solution_pack_video'
