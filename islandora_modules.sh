@@ -80,3 +80,4 @@ for f in *
         cd $f
         git checkout $branch
         cd ..
+    done
