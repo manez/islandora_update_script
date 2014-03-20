@@ -61,7 +61,7 @@ modules=(
     'islandora_premis'
     'islandora_simple_workflow'
     'islandora_xacml_editor'
-    'islandora"xmlsitemap'
+    'islandora_xmlsitemap'
     'islandora_solr_facet_pages'
     'islandora_solr_metadata'
     'islandora_sync'
